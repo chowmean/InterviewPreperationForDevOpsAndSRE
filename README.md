@@ -3,7 +3,7 @@
 Request you to please star this repo if you like it.
 
 It would be great if you can donate, this will help me in bearing the cost of running [Learnsteps](https://www.learnsteps.com) and write more such free content/books in future.  
-You can donate here: [Patreon](https://www.patreon.com/chowmean)
+You can [Buy me a beer](https://www.buymeacoffee.com/chowmean) or donate on [Patreon](https://www.patreon.com/chowmean)
 
 This is a free downloadable PDF repository of the book. You can also find this book for your kindle on [Amazon](https://www.amazon.in/Interview-preparation-interview-questions-DevOps-ebook/dp/B086ZVY7KM/ref=sr_1_1?crid=1YHFZWZDMCBGB&keywords=interview+book+devops&qid=1641887404&sprefix=interview+book+devo%2Caps%2C176&sr=8-1).
 
